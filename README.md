@@ -1,6 +1,7 @@
 # NetProbe
 
 [![CI](https://github.com/NatriumTechnologies/netprobe/actions/workflows/ci.yml/badge.svg)](https://github.com/NatriumTechnologies/netprobe/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/badge/release-v0.1.0-blue.svg)](https://github.com/NatriumTechnologies/netprobe/releases/latest)
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey.svg)](https://github.com/NatriumTechnologies/netprobe)
 [![Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](https://github.com/NatriumTechnologies/netprobe)
