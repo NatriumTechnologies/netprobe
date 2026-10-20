@@ -1,2 +1,3 @@
 [2026-10-20T14:30:00Z] calibrated syn probe timeout to 250ms
 [2026-10-20T09:33:00-05:00] sync_shard_000 worker_event=ack latency=1.48ms throughput=2180/s
+[2026-10-20T09:50:00-05:00] sync_shard_001 worker_event=ack latency=0.67ms throughput=1903/s
