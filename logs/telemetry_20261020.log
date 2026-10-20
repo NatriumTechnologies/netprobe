@@ -33,3 +33,4 @@
 [2026-10-20T17:50:00-05:00] sync_shard_031 worker_event=ack latency=0.99ms throughput=2074/s
 [2026-10-20T18:05:00-05:00] sync_shard_032 worker_event=ack latency=0.65ms throughput=2204/s
 [2026-10-20T18:19:00-05:00] sync_shard_033 worker_event=ack latency=0.85ms throughput=2069/s
+[2026-10-20T18:38:00-05:00] sync_shard_034 worker_event=ack latency=1.12ms throughput=2192/s
