@@ -45,3 +45,4 @@
 [2026-10-22T18:41:00+00:00] batch_043 metric=throughput val=2206 rtt_avg=2.09ms
 [2026-10-22T18:53:00+00:00] batch_044 metric=throughput val=1961 rtt_avg=1.52ms
 [2026-10-22T14:03:00-05:00] telemetry_stream_0000 worker_id=11 active_connections=64 packets_parsed=2994
+[2026-10-22T14:06:00-05:00] telemetry_stream_0001 worker_id=14 active_connections=229 packets_parsed=4781
