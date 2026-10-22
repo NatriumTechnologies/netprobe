@@ -1,1 +1,2 @@
 [2026-10-23T00:27:51.691601+00:00] probe worker telemetry heartbeat
+[2026-10-22T10:02:00+00:00] batch_000 metric=throughput val=2310 rtt_avg=2.04ms
