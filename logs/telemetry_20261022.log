@@ -69,3 +69,4 @@
 [2026-10-22T15:53:00-05:00] telemetry_stream_0022 worker_id=6 active_connections=231 packets_parsed=3428
 [2026-10-22T15:57:00-05:00] telemetry_stream_0023 worker_id=14 active_connections=196 packets_parsed=2696
 [2026-10-22T16:02:00-05:00] telemetry_stream_0024 worker_id=8 active_connections=121 packets_parsed=4434
+[2026-10-22T16:07:00-05:00] telemetry_stream_0025 worker_id=5 active_connections=175 packets_parsed=1780
