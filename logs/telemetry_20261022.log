@@ -20,3 +20,4 @@
 [2026-10-22T13:37:00+00:00] batch_018 metric=throughput val=1854 rtt_avg=1.89ms
 [2026-10-22T13:50:00+00:00] batch_019 metric=throughput val=1891 rtt_avg=1.00ms
 [2026-10-22T14:02:00+00:00] batch_020 metric=throughput val=2188 rtt_avg=1.78ms
+[2026-10-22T14:16:00+00:00] batch_021 metric=throughput val=1835 rtt_avg=1.79ms
