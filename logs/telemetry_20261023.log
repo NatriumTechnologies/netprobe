@@ -71,3 +71,4 @@
 [2026-10-23T15:47:00-05:00] telemetry_stream_0070 worker_id=4 active_conns=34 pps=2976
 [2026-10-23T15:54:00-05:00] telemetry_stream_0071 worker_id=9 active_conns=272 pps=2785
 [2026-10-23T15:58:00-05:00] telemetry_stream_0072 worker_id=12 active_conns=25 pps=1927
+[2026-10-23T16:04:00-05:00] telemetry_stream_0073 worker_id=12 active_conns=141 pps=2142
