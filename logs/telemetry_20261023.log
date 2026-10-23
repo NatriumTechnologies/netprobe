@@ -39,3 +39,4 @@
 [2026-10-23T12:47:00-05:00] telemetry_stream_0038 worker_id=9 active_conns=266 pps=2647
 [2026-10-23T12:53:00-05:00] telemetry_stream_0039 worker_id=13 active_conns=211 pps=2128
 [2026-10-23T13:00:00-05:00] telemetry_stream_0040 worker_id=16 active_conns=275 pps=1512
+[2026-10-23T13:04:00-05:00] telemetry_stream_0041 worker_id=6 active_conns=96 pps=2582
